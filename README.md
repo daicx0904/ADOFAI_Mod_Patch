@@ -1,5 +1,5 @@
 # Patch
-**使用前请先观看[`make_release_final.bat`使用说明](https://github.com/daicx0904/ADOFAI_Mod_Patch/?tab=readme-ov-file#make_release_final.bat使用说明)**
+**使用前请先观看[make_release_final.bat使用说明](https://github.com/daicx0904/ADOFAI_Mod_Patch/?tab=readme-ov-file#make_release_finalbat%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)**
 本项目基于 [AdofaiModTemplate](https://github.com/PizzaLovers007/AdofaiModTemplate) 制作,为该模板的补丁
 
 主要修复
