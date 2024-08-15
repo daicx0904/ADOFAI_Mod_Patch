@@ -1,7 +1,7 @@
 # Patch
 <B>重要!!!</B>
 
-**使用前请先观看[make_release_final.bat使用说明](https://github.com/daicx0904/ADOFAI_Mod_Patch/blob/main/make_release_final_helper.md)**
+**使用前请先阅读[make_release_final.bat使用说明](https://github.com/daicx0904/ADOFAI_Mod_Patch/blob/main/make_release_final_helper.md)**
 
 本项目基于 [AdofaiModTemplate](https://github.com/PizzaLovers007/AdofaiModTemplate) 制作,为该模板的补丁
 
